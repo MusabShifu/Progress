@@ -30,6 +30,7 @@ body > div{
     border-radius: 50%;
     padding: 5px 10px;
     transition: 0.7s ease-in;
+    background-color: #ddd;
 }
 .prog div:not(:first-of-type){
     position: relative;
